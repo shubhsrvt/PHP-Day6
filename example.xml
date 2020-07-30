@@ -1,0 +1,26 @@
+<producers>
+           <producer>
+                     <name>Ares</name>
+                     <age>22</age>
+                     <show>
+                           <showname>A show</showname>
+                           <showdate>5 Aug 2020</showdate>
+                     </show>
+                     <show>
+                           <showname>Another show</showname>
+                           <showdate>5 sep 2020</showdate>
+                     </show>
+           </producer>
+           <producer>
+                     <name>papu</name>
+                     <age>12</age>
+                     <show>
+                           <showname>better show</showname>
+                           <showdate>5 aug 2020</showdate>
+                     </show>
+           </producer>
+           <producer>
+                     <name>Alex</name>
+                     <age>42</age>
+           </producer>
+</producers>
